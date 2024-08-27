@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/seamonster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/seamonster.gif' title='Video Walkthrough' width='700px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
